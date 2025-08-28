@@ -1,0 +1,21 @@
+---
+title: "IT_DisEco_Fall2025"
+author: "Isabella Tolleson"
+format: html
+editor: visual
+---
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![](images/clipboard-4111735069.png)
+
+This image displays the relationship between a host, pathogen and the environment regarding infection and disease. These systems are very complex as there are various components that impact how these three points interact with each other. For example a condition in the environment could have an effect on a host that allows the pathogen to more easily infect the host.
