@@ -19,3 +19,27 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ![](images/clipboard-4111735069.png)
 
 This image displays the relationship between a host, pathogen and the environment regarding infection and disease. These systems are very complex as there are various components that impact how these three points interact with each other. For example a condition in the environment could have an effect on a host that allows the pathogen to more easily infect the host.
+
+------------------------------------------------------------------------
+
+**Worksheet 2**
+
+![](https://github.com/anyadoc/audiseco/blob/main/ss_table.png?raw=true){alt="ss_table.png"}
+
+1.  **Find the sample size necessary to detect a disease at or above 5% prevalence in a heard of 5000 deer. The desired level of confidence is 95%.**
+
+    1.  The sample size would be 59 deer.
+
+2.  **Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:**
+
+    1.  **95% confidence in detecting a disease at 1% prevalence in a large population**
+
+    2.  **99% confidence in detecting a disease at 2% prevalence in a large population**
+
+        1.  The sample size requirement for scenario 1 with an infinite population is 299 while the sample size requirement for scenario 2 with an infinite population is 229. One might think that the 99% confidence would have a higher sample size, however, the percentage of prevalence has a stronger effect. Since scenario 2 is looking at a higher prevalence, detection is more likely, so fewer samples are needed to reach the confidence percentage. Basically, the rarer/less prevalent the disease is, more samples are needed.
+
+3.  **You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\_\_ (\<, =, \>) \_\_\_\_%**
+
+    1.  Since no cases were detected in the sample, the rule of three will be used to solve the prevalence. 3/300 = 0.01 = 1%. Therefore, I am 95% confident that the prevalence of exposure is \<1%.
+
+------------------------------------------------------------------------
