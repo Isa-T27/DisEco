@@ -43,3 +43,44 @@ This image displays the relationship between a host, pathogen and the environmen
     1.  Since no cases were detected in the sample, the rule of three will be used to solve the prevalence. 3/300 = 0.01 = 1%. Therefore, I am 95% confident that the prevalence of exposure is \<1%.
 
 ------------------------------------------------------------------------
+
+**Worksheet 3**
+
+Jan's research focused on an elk herd housed in an exclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10th June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows:
+
+RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
+
+| Elk id | 06/10/25 | 06/11/25 | 06/12/25 | 06/13/25 | 06/14/25 | 06/15/25 | 06/16/25 |
+|--------|----------|----------|----------|----------|----------|----------|----------|
+| 2320B  | NAD      | NAD      | RE, OD   | OD       | OD       | OD       | OD       |
+| 2355B  | NAD      | RE       | RE, OD   | RE, OD   | NAD      | NAD      | NAD      |
+| 2565B  | NAD      | RE       | RE       | OD       | OD       | NAD      | NAD      |
+| 2763B  | NAD      | NAD      | RE       | RE       | RE, OD   | NAD      | NAD      |
+| 2772B  | NAD      | NAD      | RE       | RE       | RE, OD   | NAD      | NAD      |
+| 1889B  | RE       | RE, OD   | RE, OD   | OD       | NAD      | NAD      | NAD      |
+| 1766B  | NAD      | NAD      | NAD      | RE, OD   | RE, OD   | OD       | OD       |
+| 1322B  | NAD      | NAD      | NAD      | RE, OD   | RE, OD   | OD       | OD       |
+| 4533B  | NAD      | NAD      | NAD      | RE, OD   | OD       | OD       | OD       |
+| 4597B  | NAD      | NAD      | RE       | RE, OD   | RE, OD   | OD       | NAD      |
+| 4599B  | NAD      | NAD      | NAD      | NAD      | RE, OD   | RE, OD   | OD       |
+| 5666B  | NAD      | OD       | OD       | OD       | NAD      | NAD      | NAD      |
+| 5971B  | NAD      | RE       | RE, OD   | OD       | OD       | OD       | NAD      |
+| 6001B  | NAD      | NAD      | RE       | RE, OD   | OD       | OD       | NAD      |
+
+Recovered elk are immune (not susceptible) to conjunctivitis for 6 months. There were no infected elk in the herd after 06/16/25.
+
+1.  Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.
+    1.  On 06/12/25 there are five new cases detected in the population size of 56. Since there are five old cases, I subtracted 56-5=51. To solve for incidence, I calculated 5/51 and got 0.098 cases per elk-day.
+    2.  On 06/14/25, there are two new cases and three recovered cases. Since there are seven old cases that have not been subtracted from the population, I did 51-7 and got 44. Since there are 2 new cases I divided 2/44 and got 0.045 cases per elk-day.
+    3.  On 06/15/25, there are no new cases, but there are three new recovered cases, bringing total to 6 recovered. The incidence for this day is zero (0).
+    4.  Incidence is written in new cases per unit of time since we are looking for the number of new cases during a fixed period of time.
+2.  What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence.
+    1.  The prevalence on 06/13/25 for the total population is 12 infected/56 population, which gives us 21.4%. For the sample population, I calculated 12/14 and got 85.7%.
+    2.  The prevalence on 06/16/25 for the total population is 5/56, which is 8.9%. For the sample population, I calculated the 5 infected over the 14 elk sampled and got 35.7%.
+    3.  Prevalence is written in a percentage since we are solving for the number of animals affected as a proportion of the population.
+3.  On which day is the prevalence same as the incidence?
+    1.  On 06/10/25 the prevalence and incidence are the same. Both are solved by calculating 1/56, which gives 0.0178. Since this is the first day of observation and there is only one new case, the numbers are the same for each formula.
+4.  On which day is the incidence lowest?
+    1.  Incidence is lowest on 06/10/25. This is because there is only one new infected case observed, so the rate is not very high.
+
+------------------------------------------------------------------------
