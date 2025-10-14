@@ -84,3 +84,9 @@ Recovered elk are immune (not susceptible) to conjunctivitis for 6 months. There
     1.  Incidence is lowest on 06/10/25. This is because there is only one new infected case observed, so the rate is not very high.
 
 ------------------------------------------------------------------------
+
+**Tick Lab Report**
+
+Ticks are very efficient vectors and are able to transmit a broader range of diseases compared to any other vector besides mosquitoes. Due to their efficiency, the rates of Tick-Borne Diseases (TBDs) are rising as the host of ticks expand. In order to identify ticks, there are specific characteristics we can observe to identify the species. First we identify the life stage by counting the legs present and if there is a genital pore. Ticks go through four life stages; egg, larva, nymph, and adult. If the tick has six legs it is a larva and if it has eight legs it is either a nymph or adult. If the tick has eight legs and a genital pore, it is an adult tick. The next step in identification is to identify the sex of the tick. If the tick has an alloscutum it is a female and if it has a conscutum it is a male. In order to identify the genus we look at if the anal groove is posterior or anterior. Finally, to identify the species we need to use the dichotomous key. Another identification method is the SAM methods, which looks as is the scutum is patterned or not, if the anal groove is anterior or posterior and if the mouth parts are long or short. Using these methods we can identify the species of ticks to determine which diseases it can transmit.
+
+------------------------------------------------------------------------
