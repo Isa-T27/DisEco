@@ -90,3 +90,30 @@ Recovered elk are immune (not susceptible) to conjunctivitis for 6 months. There
 Ticks are very efficient vectors and are able to transmit a broader range of diseases compared to any other vector besides mosquitoes. Due to their efficiency, the rates of Tick-Borne Diseases (TBDs) are rising as the host of ticks expand. In order to identify ticks, there are specific characteristics we can observe to identify the species. First we identify the life stage by counting the legs present and if there is a genital pore. Ticks go through four life stages; egg, larva, nymph, and adult. If the tick has six legs it is a larva and if it has eight legs it is either a nymph or adult. If the tick has eight legs and a genital pore, it is an adult tick. The next step in identification is to identify the sex of the tick. If the tick has an alloscutum it is a female and if it has a conscutum it is a male. In order to identify the genus we look at if the anal groove is posterior or anterior. Finally, to identify the species we need to use the dichotomous key. Another identification method is the SAM methods, which looks as is the scutum is patterned or not, if the anal groove is anterior or posterior and if the mouth parts are long or short. Using these methods we can identify the species of ticks to determine which diseases it can transmit.
 
 ------------------------------------------------------------------------
+
+**Worksheet 4**
+
+MERS-CoV
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels\
+(dromedaries), and direct physical contact with camels can lead to transmission to\
+humans. Limited human-to-human transmission can occur after close contact and has\
+resulted in health care–associated outbreaks. Human MERS-CoV infection can cause\
+severe respiratory illness; approximately 35% of reported MERS cases have died.\
+Distribution of confirmed cases of MERS by place of infection and month of onset, April\
+2012 – September 2025 (European Centre for Disease Prevention and Control)
+
+![](images/clipboard-2054687787.png)
+
+Which of the following statements about MERS-CoV are correct?
+
+1.  MERS-CoV is primarily maintained in human populations.
+    1.  False, MERS-CoV is primarily maintained in camel populations.
+2.  Camels serve as the main animal reservoir for MERS-CoV.
+    1.  True.
+3.  Humans are dead-end hosts for MERS-CoV.
+    1.  True.
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%.
+    1.  False, the estimated case fatality rate for human MERS-CoV infections is approximately 35%.
+5.  The epidemic curve indicated this is a point source outbreak.
+    1.  False, this is not a point source outbreak since the curve shows multiple peaks spread across multiple years.
