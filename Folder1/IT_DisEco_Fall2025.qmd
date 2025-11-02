@@ -117,3 +117,19 @@ Which of the following statements about MERS-CoV are correct?
     1.  False, the estimated case fatality rate for human MERS-CoV infections is approximately 35%.
 5.  The epidemic curve indicated this is a point source outbreak.
     1.  False, this is not a point source outbreak since the curve shows multiple peaks spread across multiple years.
+
+------------------------------------------------------------------------
+
+**Worksheet 5**
+
+Marburg Virus Outbreak, Rwanda 2024
+
+The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units.
+
+1.  Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
+
+    1.  I would classify this outbreak of Marburg virus as a spillover event since there is not sustained human-to-human transmission. When looking at the framework for classifying disease threats, we can see that the within-H~2~ transmission rate is too low to sustain the pathogen and the between-species transmission from H~1~ is also too low. When we look at the case of potential emerging infectious diseases, the within-H~2~ transmission is much higher than a spillover event. Since Marburg virus has a low transmission rate between the second host, it would be classified as a spillover event.
+
+2.  What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
+
+    1.  Some measures that could reduce risk of transmission are: target control, blocking tactics and reservoir control. These measures can be implemented in both community and healthcare settings. The goal of target control is to control the infection within the target population, for example, humans. This method is crucial in a healthcare setting in order to reduce the chance of a potential emerging infectious disease. Blocking tactics can be used to prevent transmission between the reservoir and target host population. This measure helps prevent spillover events from happening, which can turn into a potential emerging infectious disease. The next measure is reservoir control, which involves suppressing infection within the reservoir. This is a great control method that helps reduce the risk of transmission because if we can control the disease in the reservoirs, there is a reduction in the risk of transmission to the target population.
