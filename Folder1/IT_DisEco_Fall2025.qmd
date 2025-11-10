@@ -133,3 +133,41 @@ The first person to become infected in the current Marburg virus outbreak in Rwa
 2.  What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
 
     1.  Some measures that could reduce risk of transmission are: target control, blocking tactics and reservoir control. These measures can be implemented in both community and healthcare settings. The goal of target control is to control the infection within the target population, for example, humans. This method is crucial in a healthcare setting in order to reduce the chance of a potential emerging infectious disease. Blocking tactics can be used to prevent transmission between the reservoir and target host population. This measure helps prevent spillover events from happening, which can turn into a potential emerging infectious disease. The next measure is reservoir control, which involves suppressing infection within the reservoir. This is a great control method that helps reduce the risk of transmission because if we can control the disease in the reservoirs, there is a reduction in the risk of transmission to the target population.
+
+    ------------------------------------------------------------------------
+
+**Worksheet 6**
+
+A new disease, *Vertico,* has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.
+
+**Pond 1:**
+
+-   Prevalence
+
+    -   30%
+
+-   95% CI (%)
+
+    -   Lower: 14%
+
+    -   Upper: 53%
+
+**Pond 2**
+
+-   Prevalence
+
+    -   6.7%
+
+-   95% CI (%)
+
+    -   Lower: 0.3%
+
+    -   Upper: 30%
+
+-   Fisher's exact test p-value
+
+    -   0.1987
+
+-   Interpretation
+
+    -   The difference is [not]{.underline} statistically significant since *p* \> 0.05, meaning the results could have occurred by chance.
