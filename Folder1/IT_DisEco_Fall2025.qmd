@@ -171,3 +171,34 @@ A new disease, *Vertico,* has been detected in fish in two separate ponds. Your 
 -   Interpretation
 
     -   The difference is [not]{.underline} statistically significant since *p* \> 0.05, meaning the results could have occurred by chance.
+
+    ------------------------------------------------------------------------
+
+**Worksheet 7**
+
+[Nipah Virus]{.underline}
+
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission\
+in places like Malaysia and Bangladesh. Describe how the modes of transmission differ\
+between these two regions and explain how these differences influence the preventive\
+measures recommended in each setting.
+
+-   Malaysia and Bangladesh experience different transmission pathways of Nipah virus. Pathways i and ii happen in Malaysia and pathway iii happens in Bangladesh. In pathway i, a bat will partially eat some fruit and then leave the virus in the fruit. Pathway ii is when an animal, for example a pig, will eat the infected fruit and the infected pig can spread the virus to humans working with the animal. Since the virus is spreading through contact with animals, prevention methods would focus on avoiding contact with infected animals, washing and peeling fruit before eating and keeing animals away from bats. Pathway iii involves date palm sap collection, which is a method of sugar production in Bangladesh. In this case, infected bats will go into the pots hanging in the trees and spread the virus to humans that consume the sugar. Prevention methods in Bangladesh would include protecting date sap from contamination and avoid consuming raw date palm sap.
+
+[Avian Reovirus]{.underline}
+
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the\
+different transmission routes of ARV and explain which environmental factors favor its\
+transmission. What pathogen characteristics support one of these transmission routes?\
+Finally, provide an example of a wild bird disease caused by ARV and briefly describe\
+its impact on the affected population.
+
+-   Avian reovirus can be transmitted through the fecal-oral route or through egg transmission. ARV can persist for weeks in litter and contaminated surfaces due to environmental contributors like poor sanitation, contaminated feed and water and multi-age housing systems. ARV is very resilient and stable in the environment, allowing it to persist in feces for a while until it is transmitted to another bird, which supports the fecal-oral route.
+
+[Langya henipavirus]{.underline}
+
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.\
+Describe the likely reservoir and transmission route of Langya virus. Why is LayV\
+classified as a spillover and not a potential EID?
+
+-   The likely reservoir for LayV are shrews and it is likely transmitted through contact with infected animals or their bodily fluids, like saliva or blood. LayV is classified as a spillover since it has only been reported in two provinces in China, the Henan and Shandong provinces, and has not spread globally. This means LayV is not a potential EID and is a spillover.
