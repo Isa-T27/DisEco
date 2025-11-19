@@ -202,3 +202,37 @@ Describe the likely reservoir and transmission route of Langya virus. Why is Lay
 classified as a spillover and not a potential EID?
 
 -   The likely reservoir for LayV are shrews and it is likely transmitted through contact with infected animals or their bodily fluids, like saliva or blood. LayV is classified as a spillover since it has only been reported in two provinces in China, the Henan and Shandong provinces, and has not spread globally. This means LayV is not a potential EID and is a spillover.
+
+------------------------------------------------------------------------
+
+**Worksheet 8**
+
+In this assignment, we were given a dataset from the examination of raccoon roundworm (*Baylisascaris procyonis*), a nematode worm which was found during the necropsies of 61 raccoons collected in Missouri and Arkansas during 2013 and 2014. In order to analyse this data we are using Quantitative Parasitology to determine prevalence patterns and compare between different groups. When looking at prevalence from all 106 necropsies, 50 raccoons were infected with the parasite.
+
+![](images/clipboard-3635147082.png)
+
+-   Using Sterne's method with confidence level at 95%, the prevalence of the parasite in all necropsies is 47.2% with the lower confidence level being 37.7% and the upper confidence level being 56.8%. The prevalence in this sample population is high, so the worm is common to find in these raccoons.
+
+![](images/clipboard-172044577.png)
+
+-   Looking at the adult raccoons, there were 69 total with 36 being infected which gives us a prevalence of 52.2%. At a confidence level of 95%, the lower confidence level is 40.4% and the upper confidence level is 63.8%. Over half of the adult population is infected with the parasite.
+
+![](images/clipboard-1327440887.png)
+
+-   Out of the 37 young adults, 14 were infected which gives us a prevalence of 37.8%. The confidence level is 95% and the lower confidence level is 23.4% and the upper confidence level is 54.1%.
+
+    ![](images/clipboard-2989033403.png)
+
+<!-- -->
+
+-   Now lets compare prevalence between adults and young adults. Out of 69 adults, 36 were infected and 33 were not infected, which gives us a prevalence of 52.2% as mentioned previously. When looking at the young adults, there were 37 total with 14 infected and 23 not infected, giving us a prevalence of 37.8%, also previously mentioned. Now lets look at the p-value, which is 0.2206. Since this number is greater than 0.05, this means the results are not statistically significant. Therefore, the results could be due to random chance and do not show a pattern. Since the worm is transmitted by feces, adults and young adults would probably have the same chances of getting infected.
+
+![](images/clipboard-4227039306.png)
+
+-   When comparing the prevalence between males and females using Fisher's exact test, we can see that the parasites are more prevalent in female raccoons. Out of 37 females, 24 were infected and 13 non-infected, giving prevalence as 64.9%. As for the 69 males, 26 were infected and 43 were not infected with the prevalence of 37.7%. Since the p-value is 0.0087, which is less than 0.05, showing that this result is statistically significant, which means it is unlikely this occurred by random chance. Based off of these results, we can conclude that the worms are more widespread in female raccoons compared to male raccoons. This means that sex plays a role in the infection by this worm.
+
+![](images/clipboard-2707801959.png)
+
+-   When comparing the different regions the raccoons were from, the North had 49 total with 14 infected and 35 not infected. This leads us to a prevalence of 28.6% in the North. The Central region has 14 total with 9 infected and 5 not infected, which gives us a prevalence of 64.3%. In the South region, there were 43 total with 27 infected and 16 not infected. This give us a prevalence of 62.8% in the South. The p-value is 0.0016, which is less than 0.05, meaning the results are statistically significant. We can conclude that the parasite is more widespread in the Central region, with the Southern region being the second most prevalent and the Northern region being the least prevalent. The North is actually much lower than Central and South, which leads me to believe that environmental/climate differences could play a role.
+
+Overall, this roundworm seems to be more prevalent in female raccoons and in raccoons located in the Central and Southern regions. Females have higher prevalence probably due to different physiological and behavioral factors that make susceptible to infection. When compared the three regions, prevalence is higher in the Central and Southern regions, which implies that climate and the environment could have something to due with the differences in prevalence. Since the prevalence in the North is so much lower, I think that the cooler climate is the reason for this. Parasitic worms typically thrive in warm, humid climates. Since the data was collected during November through February, there would be less worms in the North where the climate is colder.
