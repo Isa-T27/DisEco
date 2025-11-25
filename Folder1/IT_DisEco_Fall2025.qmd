@@ -22,7 +22,7 @@ This image displays the relationship between a host, pathogen and the environmen
 
 ------------------------------------------------------------------------
 
-**Worksheet 2**
+## **Worksheet 2**
 
 ![](https://github.com/anyadoc/audiseco/blob/main/ss_table.png?raw=true){alt="ss_table.png"}
 
@@ -44,7 +44,7 @@ This image displays the relationship between a host, pathogen and the environmen
 
 ------------------------------------------------------------------------
 
-**Worksheet 3**
+## **Worksheet 3**
 
 Jan's research focused on an elk herd housed in an exclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10th June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows:
 
@@ -85,13 +85,13 @@ Recovered elk are immune (not susceptible) to conjunctivitis for 6 months. There
 
 ------------------------------------------------------------------------
 
-**Tick Lab Report**
+## **Tick Lab Report**
 
 Ticks are very efficient vectors and are able to transmit a broader range of diseases compared to any other vector besides mosquitoes. Due to their efficiency, the rates of Tick-Borne Diseases (TBDs) are rising as the host of ticks expand. In order to identify ticks, there are specific characteristics we can observe to identify the species. First we identify the life stage by counting the legs present and if there is a genital pore. Ticks go through four life stages; egg, larva, nymph, and adult. If the tick has six legs it is a larva and if it has eight legs it is either a nymph or adult. If the tick has eight legs and a genital pore, it is an adult tick. The next step in identification is to identify the sex of the tick. If the tick has an alloscutum it is a female and if it has a conscutum it is a male. In order to identify the genus we look at if the anal groove is posterior or anterior. Finally, to identify the species we need to use the dichotomous key. Another identification method is the SAM methods, which looks as is the scutum is patterned or not, if the anal groove is anterior or posterior and if the mouth parts are long or short. Using these methods we can identify the species of ticks to determine which diseases it can transmit.
 
 ------------------------------------------------------------------------
 
-**Worksheet 4**
+## **Worksheet 4**
 
 MERS-CoV
 
@@ -120,7 +120,7 @@ Which of the following statements about MERS-CoV are correct?
 
 ------------------------------------------------------------------------
 
-**Worksheet 5**
+## **Worksheet 5**
 
 Marburg Virus Outbreak, Rwanda 2024
 
@@ -136,7 +136,7 @@ The first person to become infected in the current Marburg virus outbreak in Rwa
 
     ------------------------------------------------------------------------
 
-**Worksheet 6**
+## **Worksheet 6**
 
 A new disease, *Vertico,* has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.
 
@@ -174,7 +174,7 @@ A new disease, *Vertico,* has been detected in fish in two separate ponds. Your 
 
     ------------------------------------------------------------------------
 
-**Worksheet 7**
+## **Worksheet 7**
 
 [Nipah Virus]{.underline}
 
@@ -205,7 +205,7 @@ classified as a spillover and not a potential EID?
 
 ------------------------------------------------------------------------
 
-**Worksheet 8**
+## **Worksheet 8**
 
 In this assignment, we were given a dataset from the examination of raccoon roundworm (*Baylisascaris procyonis*), a nematode worm which was found during the necropsies of 61 raccoons collected in Missouri and Arkansas during 2013 and 2014. In order to analyse this data we are using Quantitative Parasitology to determine prevalence patterns and compare between different groups. When looking at prevalence from all 106 necropsies, 50 raccoons were infected with the parasite.
 
@@ -236,3 +236,41 @@ In this assignment, we were given a dataset from the examination of raccoon roun
 -   When comparing the different regions the raccoons were from, the North had 49 total with 14 infected and 35 not infected. This leads us to a prevalence of 28.6% in the North. The Central region has 14 total with 9 infected and 5 not infected, which gives us a prevalence of 64.3%. In the South region, there were 43 total with 27 infected and 16 not infected. This give us a prevalence of 62.8% in the South. The p-value is 0.0016, which is less than 0.05, meaning the results are statistically significant. We can conclude that the parasite is more widespread in the Central region, with the Southern region being the second most prevalent and the Northern region being the least prevalent. The North is actually much lower than Central and South, which leads me to believe that environmental/climate differences could play a role.
 
 Overall, this roundworm seems to be more prevalent in female raccoons and in raccoons located in the Central and Southern regions. Females have higher prevalence probably due to different physiological and behavioral factors that make susceptible to infection. When compared the three regions, prevalence is higher in the Central and Southern regions, which implies that climate and the environment could have something to due with the differences in prevalence. Since the prevalence in the North is so much lower, I think that the cooler climate is the reason for this. Parasitic worms typically thrive in warm, humid climates. Since the data was collected during November through February, there would be less worms in the North where the climate is colder.
+
+------------------------------------------------------------------------
+
+## **Worksheet 9**
+
+1.  In 2024, a multistate *Salmonella* outbreak was linked to backyard poultry flocks in the United States. What specific human behaviors contributed to the zoonotic spread of *Salmonella*? In your response, identify at least three practices by backyard poultry owners that increased the risk of *Salmonella* transmission, and briefly explain why these behaviors facilitated human infection.
+
+    1.  Three practices that increase the risk of *Salmonella* transmission are direct contact with backyard poultry, contact with contaminated environment and from contaminated eggs. These behaviors help human infection since poultry is able to shed *Salmonella*, having contact with these contaminated areas will increase transmission. *Salmonella* is also able to persist in the environment for a long time, so if environment is not clean it is more likely to get infected. Additionally, since these flocks are living in someones backyard, it is more common for the people who raise the flock to be in direct contact with them, increasing the risk of transmission.
+
+2.  Tall fescue grass is commonly infected with a fungal endophyte that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.
+
+    1.  What advantage does Tall fescue gain from being infected with a fungal endophyte?
+
+        1.  The main advantage is that Tall fescue will gain an increase in persistence when infected with a fungal endophyte. This makes the Tall fescue more durable, drought resistant and rapid regrowth.
+
+    2.  What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems?
+
+        1.  The climate, soil nutrients and grazing pressure all can influence the toxin levels in fescue.
+
+    3.  What are the key clinical signs of fescue toxicity in cattle?
+
+        1.  The key clinical signs of fescue toxicity are weight loss, rough, discolored hair coats and poor performance.
+
+------------------------------------------------------------------------
+
+## **Worksheet 10**
+
+1.  What are the different routes of transmission for African Swine fever? What role do humans play in the spread and transmission of ASF?
+
+    1.  There are multiple different transmission routes including vector borne via *Ornithodoros* tick bites, direct contact from infected pig to non-infected pig, indirect contact with contaminated feed, environmental persistence and humans can act as mechanical vectors. Humans play a role in transmission from the transport of pigs and pork products across borders, feeding practices that involve food waste spreading the virus, illegal trade which includes wild boar meat and untreated pork, delayed detection in smallholder systems and poverty and limited compensation discourage reporting.
+
+2.  Describe how co-infection with Koala retrovirus (KoRV) affects the severity, progression, and management of Chlamydia in koalas.
+
+    1.  Koala retrovirus acts similarly to human retrovirus HIV, which causes an acquired immunodeficiency virus. KoRV will suppress the immune system of koalas, which causes a high prevalence of Chlamydia infection and worse symptoms in koalas. Co-infection drives higher mortality and infertility rates as well as exhibiting greater bacterial loads. Co-infection increases the severity, speeds up the progression and makes management more difficult in koalas.
+
+3.  Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging threat to wild snake population in North America. What are the key challenges associated with the surveillance and management of SFD?
+
+    1.  One key challenge is that there are diagnostic challenges when using qPCR, which can give false negatives. Another challenge is that it is difficult to monitor snakes and symptoms can take awhile to become visible. Additionally, brumation makes surveillance and management more difficult since there is a high mortality rate in infected snakes during brumation.
